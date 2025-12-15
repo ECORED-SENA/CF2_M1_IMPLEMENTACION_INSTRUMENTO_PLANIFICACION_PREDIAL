@@ -140,22 +140,143 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Indicadores ambientales y factores del territorio',
+      referencia:
+        'FAO, MADR, ADR & Unión Europea en Colombia. (2023). <i>Guía de transición a la agroecología para extensionistas y promotores rurales en Colombia</i>. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).',
+      tipo: 'Manual',
+      link:
+        'https://tapipedia.org/sites/default/files/af-guia_de_agroecologia-web_1.pdf',
+    },
+    {
+      tema: 'Indicadores ambientales y factores del territorio',
+      referencia:
+        'Agencia de desarrollo rural (2024). <i>Tutorial del Instrumento de Planificación Predial para la Transición Agroecológica - IPPTA</i>.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=pE801QBON00',
+    },
+    {
+      tema: 'Algunas soluciones agroecológicas frente a la crisis ambiental',
+      referencia:
+        'Lozano, F. H. (2009). <i>Herramientas de manejo para la conservación de biodiversidad en paisajes rurales</i>.',
+      tipo: 'Libro',
+      link:
+        'https://repository.agrosavia.co/server/api/core/bitstreams/af3494a5-040a-4dc0-9101-3ceaa174d6f2/content',
+    },
+    {
+      tema: 'Algunas soluciones agroecológicas frente a la crisis ambiental',
+      referencia:
+        'Prieto, J. (2024). <i>Diseño hidrológico con línea clave para el trópico: Fundamentos para el manejo del agua y suelo en cambio climático</i>. Secretaría Metropolitana de Ambiente de Quito & Corporación ECOPAR.',
+      tipo: 'Cartilla',
+      link:
+        'https://drive.google.com/file/d/10Cj0xwlDcrgrD18oUy_eh_JIqnvC5hoP/view?usp=sharing',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Agroecosistema',
+      significado:
+        'sistema productivo donde interactúan cultivos, animales, suelos, agua y comunidades humanas, sujeto a principios ecológicos y agrícolas.',
+    },
+    {
+      termino: 'Biodiversidad',
+      significado:
+        'variedad de especies, genes y ecosistemas presentes en un territorio. es esencial para la estabilidad y resiliencia ecológica.',
+    },
+    {
+      termino: 'Conectividad ecológica',
+      significado:
+        'continuidad espacial que permite el movimiento de especies, el flujo genético y la provisión de servicios ecosistémicos.',
+    },
+    {
+      termino: 'Diagnóstico ambiental',
+      significado:
+        'proceso de recopilación y análisis de información para evaluar el estado y funcionamiento del medio ambiente.',
+    },
+    {
+      termino: 'Indicador ambiental',
+      significado:
+        'variable cuantitativa o cualitativa que proporciona información sobre el estado, las presiones o las respuestas del medio ambiente.',
+    },
+    {
+      termino: 'Línea base ambiental',
+      significado:
+        'estado inicial de las condiciones ambientales de un área antes de implementar un plan o proyecto, utilizado como referencia para el seguimiento.',
+    },
+    {
+      termino: 'Restauración ecológica',
+      significado:
+        'proceso que busca recuperar la estructura, composición y función de los ecosistemas degradados.',
+    },
+    {
+      termino: 'Sistemas agroforestales',
+      significado:
+        'modelos de uso del suelo que integran árboles, cultivos y, en algunos casos, animales, en beneficio ecológico y productivo.',
+    },
+    {
+      termino: 'Territorio',
+      significado:
+        'espacio geográfico donde interactúan los factores ambientales, sociales y económicos, y sobre el cual se planifica la gestión sostenible.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Avella Muñoz, A., Garzón Fierro E. M., Páez Díaz, M. J., & Ordosgoitia, D. (2022). Restauración ecológica: Principios y prácticas. Ministerio de Ambiente y Desarrollo Sostenible de Colombia-Fundación Natura.',
+      link:
+        'https://natura.org.co/publicaciones/cartilla-restauracion-ecologica-principios-y-practicas-fundacion-natura/',
+    },
+    {
+      referencia:
+        'FAO, MADR, ADR & Unión Europea en Colombia. (2023). Guía de transición a la agroecología para extensionistas y promotores rurales en Colombia. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).',
+      link: 'https://www.fao.org/agroecology/database/detail/es/c/1711004/',
+    },
+    {
+      referencia:
+        'Gallego, S.  (2019). Análisis de Indicadores de Sustentabilidad Agroecológica en pequeños ganaderos de Primavera Vichada.',
+      link: 'https://ridum.umanizales.edu.co/handle/20.500.12746/3508',
+    },
+    {
+      referencia:
+        'Lozano, F. H. (2009). Herramientas de manejo para la conservación de biodiversidad en paisajes rurales.',
+      link: 'http://hdl.handle.net/20.500.12324/13044',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2012). Política Nacional para la Gestión Integral de la Biodiversidad y sus Servicios Ecosistémicos - PNGIBSE. Bogotá, Colombia.',
       link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2024). Estrategia nacional de restauración 2023 - 2026. Juntos para recuperar la naturaleza perdida. Bogotá, Colombia.',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2025/03/ENR_3032024-3.pdf',
+    },
+    {
+      referencia:
+        'Martínez, R. Q. (2009). Guía metodológica para desarrollar indicadores ambientales y de desarrollo sostenible en países de América Latina y el Caribe.',
+      link:
+        'https://www.cepal.org/sites/default/files/courses/files/8_manual-61-cepal_formatoserie_color.pdf',
+    },
+    {
+      referencia:
+        'Prieto, J. (2024). Diseño hidrológico con línea clave para el trópico: Fundamentos para el manejo del agua y suelo en cambio climático. Secretaría Metropolitana de Ambiente de Quito & Corporación ECOPAR.',
+      link: '',
+    },
+    {
+      referencia:
+        'Raudes, M., Sagastume, N. 2009. Manual de Conservación de Suelos. Programa para la Agricultura Sostenible en Laderas de América Central. Carrera de Ciencia y Producción Agropecuaria. Escuela Agrícola Panamericana, El Zamorano, Honduras. 75 p.',
+      link:
+        'https://www.se.gob.hn/media/files/media/Modulo_3_Manual_Conservacion_de_Suelos..pdf',
+    },
+    {
+      referencia:
+        'Silva-Santamaría, L. y Ramírez-Hernández, O. (2017). Evaluación de agroecosistemas mediante indicadores de sostenibilidad en San José de las Lajas, provincia de Mayabeque, Cuba. Luna Azul, 44, 120-152. DOI: 10.17151/luaz.2017.44.8.',
+      link: '',
+    },
+    {
+      referencia:
+        'Varela, M. V. (2010). Evaluación de sistemas de producción agroecológicos incorporando indicadores de sostenibilidad en la sabana de Bogotá.',
+      link: 'https://repositorio.unal.edu.co/handle/unal/11399',
     },
   ],
   creditos: [
