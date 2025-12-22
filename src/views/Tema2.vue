@@ -12,8 +12,8 @@
           .row.align-items-center.mb-4
             .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c3
-                p.mb-0 Una vez establecida la #[b Línea Base] mediante la evaluación de los indicadores ambientales del IPPTA, y definidas las áreas con mayor necesidad de intervención (puntuaciones bajas), se vuelve indispensable traducir el diagnóstico en #[b acciones concretas y estratégicas].
-            .col-lg-4(data-aos="fade-left")
+                p.mb-0 Una vez establecida la #[b línea base] mediante la evaluación de los indicadores ambientales del IPPTA, y definidas las áreas con mayor necesidad de intervención (puntuaciones bajas), se vuelve indispensable traducir el diagnóstico en #[b acciones concretas y estratégicas].
+            .col-lg-4(data-aos="fade-left").d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema2/img1.png', style="width: 400px").m-auto
           .row.justify-content-center.mb-4
@@ -697,7 +697,7 @@
                         .anexo__icono
                           img(src="@/assets/template/icono-pdf.svg")
                         .anexo__texto
-                          p #[b Anexo.] Criterios para un comportase exitoso.
+                          p #[b Anexo.] Criterios para un compostaje exitoso.
               .row.justify-content-center.align-items-center.my-lg-4
                 .col-lg-5.mb-4.mb-lg-0
                   p #[b Lombricultura (vermicompostaje)]

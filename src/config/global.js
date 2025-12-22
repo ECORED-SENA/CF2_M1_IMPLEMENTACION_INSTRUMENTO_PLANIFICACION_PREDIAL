@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Prácticas Agroecológicas para la Restauración y Fortalecimiento Ambiental',
+      'Prácticas agroecológicas para la restauración y fortalecimiento ambiental',
     Description:
       'El componente formativo presenta los indicadores ambientales como herramientas clave para evaluar fincas rurales y planificar su transición agroecológica. A través del IPPTA se miden aspectos como agua, biodiversidad y residuos. Con base en el diagnóstico, se implementan prácticas como cosecha de agua, biofiltros y compostaje. También se proponen estrategias para conservación, reutilización y un plan de intervención sostenible.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -180,7 +180,7 @@ export default {
     {
       termino: 'Biodiversidad',
       significado:
-        'variedad de especies, genes y ecosistemas presentes en un territorio. es esencial para la estabilidad y resiliencia ecológica.',
+        'variedad de especies, genes y ecosistemas presentes en un territorio. Es esencial para la estabilidad y resiliencia ecológica.',
     },
     {
       termino: 'Conectividad ecológica',
@@ -283,15 +283,15 @@ export default {
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        //{
+        //  nombre: 'Nombre completo',
+        //  cargo: 'Responsable del ecosistema',
+        //  centro: 'Dirección General',
+        //},
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Olga Constanza Bermudez Jaimes',
+          cargo: 'Responsable de Línea de Producción Huila',
           centro: 'Dirección General',
-        },
-        {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
         },
       ],
     },
@@ -299,9 +299,39 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jorge Eduardo Alava Arevalo',
+          cargo: 'Instructor técnico',
+          centro:
+            'Centro Internacional de Producción Limpia Lope - Regional Nariño',
+        },
+        {
+          nombre: 'Gonzalo Cardona',
+          cargo: 'Coordinador Colombia',
+          centro: 'Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Pablo Aguirre',
+          cargo: 'Coordinador',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Jenny Gómez',
+          cargo: 'Asistente técnica',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Roger Garcia',
+          cargo: 'Consultor',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -309,19 +339,46 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Carlos Julian Ramirez Benitez',
+          cargo: 'Diseñador de contenidos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -329,14 +386,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },

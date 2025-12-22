@@ -1,2 +1,2 @@
 module.exports =
-  'Prácticas Agroecológicas para la Restauración y Fortalecimiento Ambiental'
+  'Prácticas agroecológicas para la restauración y fortalecimiento ambiental'

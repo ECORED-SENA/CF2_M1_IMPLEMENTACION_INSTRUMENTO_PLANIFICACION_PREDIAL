@@ -13,7 +13,7 @@
             .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c3
                 p.mb-0 La relación entre los indicadores ambientales y los factores del territorio es clave para comprender cómo las dinámicas ecológicas, sociales y productivas interactúan en un espacio determinado. La planificación territorial con enfoque ambiental exige instrumentos que permitan evaluar y monitorear el impacto de las actividades humanas sobre los ecosistemas, así como orientar las decisiones hacia modelos más sostenibles. En este sentido, los indicadores ambientales se constituyen como herramientas esenciales para transformar información compleja en datos útiles que faciliten la gestión del territorio.
-            .col-lg-4(data-aos="fade-left")
+            .col-lg-4(data-aos="fade-left").d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema1/img2.png', style="width: 400px").m-auto
           .row.justify-content-center
@@ -183,7 +183,7 @@
                 .col-12.bg-c3
                   .p-4
                     p.mb-0 Las dimensiones evaluadas, como la #[b gestión hídrica], la #[b biodiversidad funcional], la #[b conservación del suelo y el manejo de residuos], reflejan aspectos críticos para la #[b sostenibilidad territorial]. Aplicados mediante #[b técnicas participativas], estos indicadores fortalecen el #[b diálogo de saberes], el #[b monitoreo comunitario] y la #[b toma de decisiones informadas], articulando el conocimiento local con criterios técnicos para proyectar #[b estrategias agroecológicas pertinentes y regenerativas].
-            .col-lg-4(data-aos="fade-left")
+            .col-lg-4(data-aos="fade-left").d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema1/img8.png', style="width: 380px").m-auto
           .row.justify-content-center.mb-4

@@ -13,7 +13,7 @@
             .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
               .p-4.bg-c3
                 p.mb-0 La evaluación de los indicadores del componente ambiental del IPPTA no representa un fin en sí misma, sino el punto de partida para una acción transformadora. Estos indicadores permiten identificar desequilibrios, fortalezas y oportunidades en cada predio. Su verdadero valor se manifiesta cuando se articulan con prácticas agroecológicas concretas que buscan restaurar, conservar y mejorar el agroecosistema.
-            .col-lg-4(data-aos="fade-left")
+            .col-lg-4(data-aos="fade-left").d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema3/img1.png', style="width: 400px").m-auto
           .row.justify-content-center.mb-4
