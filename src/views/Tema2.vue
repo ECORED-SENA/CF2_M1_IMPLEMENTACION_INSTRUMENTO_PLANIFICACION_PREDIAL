@@ -72,7 +72,7 @@
                     .tarjeta.bg-white
                       TarjetaAudio.color-acento-contenido(
                       texto="Estrategias prediales para el cuidado del agua"
-                      :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                      :audio="require('@/assets/componentes/audios/audio2.mp3')"
                       @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
       .col-lg-5(data-aos="fade-left")
@@ -248,7 +248,7 @@
     p.mb-4 A continuación, se presenta un video que explora las estrategias prediales para la conservación de la biodiversidad, destacando el papel crucial de la vegetación natural en la sostenibilidad de los sistemas agroecológicos y su función como aliada estratégica en la transición hacia una agricultura más resiliente y armoniosa con el entorno.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1AnnKcnKRps?si=bUaYi_6IGgj0dFKV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-4.ms-0
       .col-auto.bg-c5(data-aos="fade-left")
         .row.align-items-end

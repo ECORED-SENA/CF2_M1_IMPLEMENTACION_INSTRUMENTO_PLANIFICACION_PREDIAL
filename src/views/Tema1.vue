@@ -79,13 +79,35 @@
     #t_1_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Indicadores ambientales IPPTA
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-4
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         .p-4.bg-c3
           p.mb-0 El levantamiento de la #[b línea base ambiental] del predio rural es un componente fundamental del #[b Instrumento de Planeación para la Transición Agroecológica (IPPTA)]. Su finalidad es proporcionar un diagnóstico detallado del #[b estado ambiental de la finca], esencial para gestionar y planificar el proceso de cambio hacia una producción sustentable.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img5.png', style="width: 350px").m-auto
+    p.mb-4 Acompáñanos en este recorrido para comprender cómo el IPPTA impulsa procesos territoriales que fortalecen la vida, la autonomía y la agroecología en cada comunidad.
+    .row.align-items-center.mb-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        .p-4.bg-c20
+          .row.align-items-center
+            .col-lg-auto.mb-4.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema2/img5.svg', style="width: 230px").m-auto
+            .col-lg
+              p.text-white.fs-4.mb-1 #[b Pódcast]
+              .row
+                .col-12
+                  .tarjeta
+                    .tarjeta.bg-white
+                      TarjetaAudio.color-acento-contenido(
+                      texto="IPPTA ARRIC"
+                      :audio="require('@/assets/componentes/audios/audio1.mp3')"
+                      @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                  )
+      .col-lg-5(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/tema1/img12.png', style="width: 450px").m-auto
     .row.mb-4.ms-0
       .col-auto.bg-c5(data-aos="fade-left")
         .row.align-items-end

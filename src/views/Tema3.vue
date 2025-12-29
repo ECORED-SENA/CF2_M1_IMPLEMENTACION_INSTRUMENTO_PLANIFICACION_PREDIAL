@@ -85,7 +85,11 @@
                 .col-lg-5
                   figure
                     img(src='@/assets/curso/tema3/img8.png', style="width: 400px").m-auto
-    p.mb-0 Un plan de intervención agroecológica es mucho más que una lista de tareas. Es una herramienta de transformación territorial construida colectivamente, que integra conocimientos técnicos, saberes campesinos y compromiso con la sostenibilidad. Al conectar el diagnóstico con acciones coherentes y medibles, se fortalece la capacidad de los predios para adaptarse, regenerarse y prosperar en armonía con la naturaleza.
+    p Un plan de intervención agroecológica es mucho más que una lista de tareas. Es una herramienta de transformación territorial construida colectivamente, que integra conocimientos técnicos, saberes campesinos y compromiso con la sostenibilidad. Al conectar el diagnóstico con acciones coherentes y medibles, se fortalece la capacidad de los predios para adaptarse, regenerarse y prosperar en armonía con la naturaleza.
+    p.mb-4 La agroecología que florece en nuestra tierra recuerda por qué ser promotor agroecológico es fundamental: acompañar a las comunidades, fortalecer los saberes y cuidar la vida en cada territorio. En los siguientes videos se presenta la experiencia de un promotor que comparte su trabajo, sus aprendizajes y el compromiso que sostiene en cada proceso comunitario.
+    figure.mb-0
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/NFe0G80E098?si=ZEyXasxz1pp6ounm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
