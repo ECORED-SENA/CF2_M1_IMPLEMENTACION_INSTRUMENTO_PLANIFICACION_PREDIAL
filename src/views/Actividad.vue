@@ -34,12 +34,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -55,12 +55,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -76,12 +76,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -97,12 +97,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -118,12 +118,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -139,12 +139,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: true,
             },
           ],
@@ -160,12 +160,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -181,12 +181,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],

@@ -227,11 +227,6 @@ export default {
     },
     {
       referencia:
-        'FAO, MADR, ADR & Unión Europea en Colombia. (2023). Guía de transición a la agroecología para extensionistas y promotores rurales en Colombia. Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).',
-      link: 'https://www.fao.org/agroecology/database/detail/es/c/1711004/',
-    },
-    {
-      referencia:
         'Gallego, S.  (2019). Análisis de Indicadores de Sustentabilidad Agroecológica en pequeños ganaderos de Primavera Vichada.',
       link: 'https://ridum.umanizales.edu.co/handle/20.500.12746/3508',
     },
@@ -307,25 +302,26 @@ export default {
         {
           nombre: 'Gonzalo Cardona',
           cargo: 'Coordinador Colombia',
-          centro: 'Agronomos y Veterinarios sin Fronteras (AVSF)',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Pablo Aguirre',
           cargo: 'Coordinador',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Jenny Gómez',
           cargo: 'Asistente técnica',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Roger Garcia',
           cargo: 'Consultor',
           centro:
-            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agronomos y Veterinarios sin Fronteras (AVSF)',
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC)<br>Agrónomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Paola Alexandra Moya',

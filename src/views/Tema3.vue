@@ -90,6 +90,7 @@
     figure.mb-0
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/NFe0G80E098?si=ZEyXasxz1pp6ounm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption La agroecología
 
 </template>
 
